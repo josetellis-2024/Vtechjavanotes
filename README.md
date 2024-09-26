@@ -1,1 +1,1 @@
-# Vtechjavanotes
+# Vtechjavanotes -Java -Core Notes
